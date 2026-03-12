@@ -1,7 +1,7 @@
 # A Makefile for building TeX documents
 #
 
-DOC = sampleReport
+DOC = main
 # Set $(DOC) to the name of the document, without extension.
 TEXDIR = ../cpecmu_proj
 # Set $(TEXDIR) to point to the directory containing cornell.cls.
