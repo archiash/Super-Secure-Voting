@@ -17,5 +17,6 @@
 *.xdv
 *.synctex.gz
 *.synctex(busy)
+main.pdf
 __latexindent*
 sampleReport.pdf
